@@ -1,0 +1,8 @@
+w:c3c4
+b:h6h5
+b:f4a4
+b:a4a1
+w:h3h4
+b:a1h1
+b:e4a4
+b:a4f4

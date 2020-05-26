@@ -1,0 +1,9 @@
+8________
+7bbbbbbbb
+6bbbbbbb_
+5________
+4_____B_w
+3wwwwwwww
+2_wwwwwww
+1________
++ABCDEFGH
