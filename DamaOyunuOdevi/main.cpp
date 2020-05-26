@@ -740,7 +740,7 @@ void changeplayer(char board[9][9]){//i wrote this function because , if turn is
     fprintf(file2, "%c" , board[0][0]);
     fclose(file2);
 }
-void wincontrol(char board[9][9]){//we find the winner by looking pieces of players.
+void wincontrol(char board[9][9]){//we find the winner by looking pieces of players...
     int count1 = 0;
     int count2 = 0;
     for(int i = 1; i < 9; i++){
